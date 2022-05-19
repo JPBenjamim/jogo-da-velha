@@ -3,7 +3,7 @@
 ## O clássico jogo da velha
 <p align="center">O projeto tinha como objetivo treinar a lógica e conhecimentos em React</p>
 
-<p align="center"> Você pode ver uma demonstrançao do projeto <a href=https://tic-hash.netlify.app/"> aqui! <a/>
+<p align="center"> Você pode ver uma demonstrançao do projeto <a href=https://tic-hash.netlify.app/> aqui! <a/>
 	
 # 
 
