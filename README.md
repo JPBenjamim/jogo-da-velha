@@ -9,7 +9,7 @@
 
 
 <h4 align="center"> 
-	🚧 🚀 Porjeto Finalizado...  🚧
+	🚧 🚀 Projeto Finalizado...  🚧
   </h4>
 
 
